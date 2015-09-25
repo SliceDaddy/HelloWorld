@@ -31,7 +31,7 @@ public class Counter {
 
 	public void reset();
 	count = 0;
-		
+	
 	}
 }
 
